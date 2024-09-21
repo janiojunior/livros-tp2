@@ -2,7 +2,6 @@ package br.unitins.tp2.livros.resource;
 
 import br.unitins.tp2.livros.dto.EstadoDTO;
 import br.unitins.tp2.livros.service.EstadoService;
-import jakarta.annotation.security.RolesAllowed;
 import jakarta.inject.Inject;
 import jakarta.ws.rs.Consumes;
 import jakarta.ws.rs.DELETE;
